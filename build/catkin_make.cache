@@ -1,0 +1,2 @@
+learning_service:learntopic
+-DCATKIN_DEVEL_PREFIX=/home/haoboxuxu/my_wordspace/devel -DCMAKE_INSTALL_PREFIX=/home/haoboxuxu/my_wordspace/install -G Unix Makefiles

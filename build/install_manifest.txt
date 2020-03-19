@@ -1,0 +1,9 @@
+/home/haoboxuxu/my_wordspace/install/_setup_util.py
+/home/haoboxuxu/my_wordspace/install/env.sh
+/home/haoboxuxu/my_wordspace/install/setup.bash
+/home/haoboxuxu/my_wordspace/install/local_setup.bash
+/home/haoboxuxu/my_wordspace/install/setup.sh
+/home/haoboxuxu/my_wordspace/install/local_setup.sh
+/home/haoboxuxu/my_wordspace/install/setup.zsh
+/home/haoboxuxu/my_wordspace/install/local_setup.zsh
+/home/haoboxuxu/my_wordspace/install/.rosinstall
