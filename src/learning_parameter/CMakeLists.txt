@@ -150,6 +150,9 @@ include_directories(
 #   ${catkin_LIBRARIES}
 # )
 
+add_executable(parameter_config src/parameter_config.cpp)
+target_link_libraries(parameter_config ${catkin_LIBRARIES})
+
 #############
 ## Install ##
 #############
