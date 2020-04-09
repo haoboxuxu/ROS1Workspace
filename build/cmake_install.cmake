@@ -131,9 +131,11 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/haoboxuxu/my_wordspace/build/gtest/cmake_install.cmake")
+  include("/home/haoboxuxu/my_wordspace/build/learning_launch/cmake_install.cmake")
   include("/home/haoboxuxu/my_wordspace/build/learning_parameter/cmake_install.cmake")
   include("/home/haoboxuxu/my_wordspace/build/learntopic/cmake_install.cmake")
   include("/home/haoboxuxu/my_wordspace/build/learning_service/cmake_install.cmake")
+  include("/home/haoboxuxu/my_wordspace/build/learning_tf/cmake_install.cmake")
 
 endif()
 
